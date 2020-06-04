@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xNakx/xNakx.git"
+    "url": "git+https://github.com/xNakx/ping.git"
   },
   "author": "Nak Thao",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/xNakx/xNakx/issues"
+    "url": "https://github.com/xNakx/ping/issues"
   },
-  "homepage": "https://github.com/xNakx/xNakx#readme",
+  "homepage": "https://github.com/xNakx/ping",
   "dependencies": {
     "fs": "0.0.1-security",
     "node-fetch": "^2.6.0"

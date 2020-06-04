@@ -1,6 +1,6 @@
 const fetch = require("node-fetch");
 const fs = require("fs");
-const config = require("./urls.json");
+const config = require("./config.json");
 
 const modules = [];
 const messageModules = {};
